@@ -46,3 +46,8 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 }
+
+// Bootstrap
+module.exports = {
+  modules: ['bootstrap-vue/nuxt']
+}
