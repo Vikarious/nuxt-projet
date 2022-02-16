@@ -4,6 +4,10 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _5c172531 = () => interopDefault(import('..\\pages\\AngularPage.vue' /* webpackChunkName: "pages/AngularPage" */))
+const _fd2c14dc = () => interopDefault(import('..\\pages\\BootstrapVsTailwindPage.vue' /* webpackChunkName: "pages/BootstrapVsTailwindPage" */))
+const _49b085ce = () => interopDefault(import('..\\pages\\ReactPage.vue' /* webpackChunkName: "pages/ReactPage" */))
+const _030e40d5 = () => interopDefault(import('..\\pages\\VuePage.vue' /* webpackChunkName: "pages/VuePage" */))
 const _bdd3efdc = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -18,6 +22,22 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/AngularPage",
+    component: _5c172531,
+    name: "AngularPage"
+  }, {
+    path: "/BootstrapVsTailwindPage",
+    component: _fd2c14dc,
+    name: "BootstrapVsTailwindPage"
+  }, {
+    path: "/ReactPage",
+    component: _49b085ce,
+    name: "ReactPage"
+  }, {
+    path: "/VuePage",
+    component: _030e40d5,
+    name: "VuePage"
+  }, {
     path: "/",
     component: _bdd3efdc,
     name: "index"
