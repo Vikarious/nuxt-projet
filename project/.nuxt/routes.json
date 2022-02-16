@@ -1,20 +1,9 @@
 [
   {
-    "name": "pageDefault",
-    "path": "/pageDefault",
-    "component": "C:\\\\Users\\\\94010-44-06\\\\Documents\\\\GitHub\\\\Web-Dev-AFPA\\\\nuxt-projet\\\\project\\\\pages\\\\pageDefault.vue",
-    "chunkName": "pages/pageDefault"
-  },
-  {
-    "name": "truc",
-    "path": "/truc",
-    "component": "C:\\\\Users\\\\94010-44-06\\\\Documents\\\\GitHub\\\\Web-Dev-AFPA\\\\nuxt-projet\\\\project\\\\pages\\\\truc.vue",
-    "chunkName": "pages/truc"
-  },
-  {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\94010-44-06\\\\Documents\\\\GitHub\\\\Web-Dev-AFPA\\\\nuxt-projet\\\\project\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_bdd3efdc"
   }
 ]
