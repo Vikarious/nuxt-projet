@@ -3,30 +3,35 @@
     "name": "AngularPage",
     "path": "/AngularPage",
     "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\AngularPage.vue",
-    "chunkName": "pages/AngularPage"
+    "chunkName": "pages/AngularPage",
+    "_name": "_5c172531"
   },
   {
     "name": "BootstrapVsTailwindPage",
     "path": "/BootstrapVsTailwindPage",
     "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\BootstrapVsTailwindPage.vue",
-    "chunkName": "pages/BootstrapVsTailwindPage"
+    "chunkName": "pages/BootstrapVsTailwindPage",
+    "_name": "_fd2c14dc"
   },
   {
     "name": "ReactPage",
     "path": "/ReactPage",
     "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\ReactPage.vue",
-    "chunkName": "pages/ReactPage"
+    "chunkName": "pages/ReactPage",
+    "_name": "_49b085ce"
   },
   {
     "name": "VuePage",
     "path": "/VuePage",
     "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\VuePage.vue",
-    "chunkName": "pages/VuePage"
+    "chunkName": "pages/VuePage",
+    "_name": "_030e40d5"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Vikarious\\\\Documents\\\\GitHub\\\\nuxt-projet\\\\project\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_bdd3efdc"
   }
 ]
