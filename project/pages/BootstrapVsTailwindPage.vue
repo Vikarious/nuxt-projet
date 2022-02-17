@@ -1,7 +1,7 @@
 <template lang="">
-    <div>
-        <h1>Page Bootstrap vs Tailwind</h1>
-    </div>
+  <div>
+    <h1>Page Bootstrap vs Tailwind</h1>
+  </div>
 </template>
 
 <script>
