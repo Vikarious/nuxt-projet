@@ -14,8 +14,8 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div
-        class="collapse navbar-collapse col-md-3 mx-auto display-5 "
         id="navbarNav"
+        class="collapse navbar-collapse col-md-3 mx-auto display-5"
       >
         <ul class="navbar-nav">
           <li class="nav-item active">
@@ -57,4 +57,3 @@ export default {
   margin-left: 0;
 }
 </style>
- 
