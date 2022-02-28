@@ -17,7 +17,7 @@
         class="collapse navbar-collapse col-md-3 mx-auto display-5 "
         id="navbarNav"
       >
-        <ul class="navbar-nav d-flex align-content-center">
+        <ul class="navbar-nav">
           <li class="nav-item active">
             <NuxtLink class="nav-link" to="/">Home</NuxtLink>
           </li>
@@ -46,9 +46,15 @@ export default {
   name: 'TheHeader',
 }
 </script>
-<style scoped>
+<style>
 .display-5 {
   font-size: 30px;
+}
+.navbar {
+  width: 100%;
+}
+.row {
+  margin-left: 0;
 }
 </style>
  

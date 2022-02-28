@@ -44,4 +44,7 @@ export default {
 .display-5 {
   font-size: 30px;
 }
+/* .footer-bs{
+  width: 100%;
+} */
 </style>
