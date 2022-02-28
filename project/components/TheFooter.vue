@@ -1,5 +1,5 @@
 <template lang="">
-  <div>
+  <div class="footer-bs">
     <!-- Footer -->
     <footer class="bg-dark text-center text-white">
       <!-- Grid container -->
@@ -40,7 +40,7 @@ export default {
     name:'TheFooter'
 }
 </script>
-<style scoped>
+<style>
 .display-5 {
   font-size: 30px;
 }

@@ -14,10 +14,10 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div
-        class="collapse navbar-collapse col-md-3 mx-auto display-5"
+        class="collapse navbar-collapse col-md-3 mx-auto display-5 "
         id="navbarNav"
       >
-        <ul class="navbar-nav">
+        <ul class="navbar-nav d-flex align-content-center">
           <li class="nav-item active">
             <NuxtLink class="nav-link" to="/">Home</NuxtLink>
           </li>
@@ -32,7 +32,7 @@
           </li>
           <li class="nav-item active">
             <NuxtLink class="nav-link" to="/BootstrapVsTailwindPage"
-              >Bootstrap Vs Tailwind</NuxtLink
+              >Frameworks CSS</NuxtLink
             >
           </li>
         </ul>
